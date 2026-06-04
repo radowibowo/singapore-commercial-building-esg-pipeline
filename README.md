@@ -101,4 +101,11 @@ To maintain analytical continuity with the backend database logic, equivalent va
 
 ---
 
+## 7. Interactive Executive Dashboard
+Below is the finalized Power BI dashboard used by the corporate sustainability team to monitor real-time Scope 2 carbon risks and spot operational energy anomalies across Singapore:
+
+![Singapore Commercial Buildings ESG Dashboard](esg_dashboard_framework.png)
+
+---
+
 *Developed as a practical demonstration of ELT architectures, advanced PostgreSQL scripting, and ESG data visualization for international property asset management.*
