@@ -49,7 +49,7 @@ FROM raw_singapore_building_esg
 WHERE property_type IN ('Office', 'Retail', 'Hotel');
 
 -- Note: Mixed Development assets are excluded from EUI benchmarking due to complex, non-flat regulatory baselines.
-
+```
 ## 📈 Key Insights & Dashboard Features
 Full Portfolio Scope: Successfully audited 200+ active commercial assets in Singapore after executing data scope fixes.
 
@@ -63,5 +63,5 @@ Financial Risk Mapping: Provided C-level executives with an absolute metric of T
 
 (Insert your Power BI dashboard screenshot here)
 
-
+Developed as a practical demonstration of ELT architectures, advanced PostgreSQL scripting, and ESG data visualization for international property asset management.
 ---
