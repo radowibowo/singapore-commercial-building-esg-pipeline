@@ -63,5 +63,7 @@ Financial Risk Mapping: Provided C-level executives with an absolute metric of T
 
 (Insert your Power BI dashboard screenshot here)
 
-Developed as a practical demonstration of ELT architectures, advanced PostgreSQL scripting, and ESG data visualization for international property asset management.
+---
+*Developed as a practical demonstration of ELT architectures, advanced PostgreSQL scripting, and ESG data visualization for international property asset management.*
+
 ---
